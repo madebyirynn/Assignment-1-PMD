@@ -1,5 +1,4 @@
-import 'package:material_ui/material_ui.dart';
-
+import 'package:flutter/material.dart';
 class AppBottomNavBar extends StatelessWidget {
   final int currentIndex;
   final ValueChanged<int> onTap;
